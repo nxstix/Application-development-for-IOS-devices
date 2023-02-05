@@ -8,8 +8,11 @@ The first project was to create a Prefix calculator (PraefixRechner Project). Th
 
 Below are sample images of the Apps created.
 
+Calculator:
 ![App-sample-Calc](img/App-sample-Calc.png)
 
+Tic-Tac-Toe:
 ![App-sample-TicTacToe](img/App-sample-TicTacToe.png)
 
+Map:
 ![App-sample-Map](img/App-sample-Map.png)
